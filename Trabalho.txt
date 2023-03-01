@@ -1,0 +1,24 @@
+
+#Python
+
+Referência:https://www.python.org/
+
+Relação: Python é uma liguagem de programação utilizada em inúmeras áreas do setor de tecnologia, sendo uma das bases principais para diversos tecnólogos. Nesse semestre, será a linguagem que aprofundaremos para o estudo do curso.
+
+#Git
+
+Referência: https://git-scm.com/
+
+Relação: É o sistema de controle moderno e mais utilizado no mundo, usado para arquitetar projetos e de fácil manuseio. Nesse semestre, será utilizado para apresentarmos nossos projetos, através de repositórios, para que tenhamos um aprendizado gradual.
+
+#VSCode
+
+Referência: https://code.visualstudio.com/
+
+Relação: VS Code, ou Visual Studio Code, é um editor de código que é utilizado para suporte de depuração e complementação completa de códigos, por exemplo. Durante o curso, aplicaremos esse sistemas para programar e desenvolver projetos.
+
+#Sqlitebrowser
+
+Referência: https://sqlitebrowser.org/
+
+Relação: É um browser de alta qualidade visual, usada como uma ferramenta de criar, desenvolver designs e editar dados compatíveis com o programa. Durante o curso, será utilizado para capacitar programas criados pelos alunos.
