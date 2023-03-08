@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;  
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+.titulo{
+    font-size:24px;
+    color: greenyellow;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+body {
+    background-color: black;
+    font-family: 'Roboto Condensed', sans-serif;
+    box-sizing: border-box;
+    margin:15%;
+    display: column;
+    line-height: 25px;
+}
+
+
+.foto {
+    align-items: center;
+    width:500px;
+    height: 150px;
+}
+
+.paragrafo {
+    padding: 10px;
+}
+
+
